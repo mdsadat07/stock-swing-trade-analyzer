@@ -1,0 +1,6 @@
+pandas
+requests
+feedparser
+beautifulsoup4
+trafilatura
+lxml
